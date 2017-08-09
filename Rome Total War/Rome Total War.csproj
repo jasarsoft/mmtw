@@ -55,6 +55,7 @@
     </Compile>
     <Compile Include="Class\MainClass.cs" />
     <Compile Include="Class\Option\OptionTag.cs" />
+    <Compile Include="OptionDefault.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form\MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
