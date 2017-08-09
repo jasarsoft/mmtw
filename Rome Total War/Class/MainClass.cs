@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Forms;
 
-namespace Rome_Total_War
+namespace Jasarsoft.ModManager.TotalWar.Rome
 {
     static class Program
     {

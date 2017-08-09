@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Windows.Forms;
 
-namespace Rome_Total_War
+namespace Jasarsoft.ModManager.TotalWar.Rome
 {
     public partial class MainForm : Form
     {

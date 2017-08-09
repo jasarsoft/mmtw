@@ -1,4 +1,4 @@
-﻿namespace Rome_Total_War
+﻿namespace Jasarsoft.ModManager.TotalWar.Rome
 {
     partial class MainForm
     {
